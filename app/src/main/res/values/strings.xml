@@ -2,4 +2,9 @@
     <string name="app_name">Dice Roll Demo App</string>
     <string name="btn_roll">Roll</string>
     <string name="btn_clear">Clear</string>
+    <string name="logo">Dice Roll Logo</string>
+    <string name="die_left">Left Die</string>
+    <string name="die_right">Right Die</string>
+    <string name="btn_desc_roll">Roll Button</string>
+    <string name="btn_desc_clear">Clear Button</string>
 </resources>
